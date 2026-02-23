@@ -1,1 +1,5 @@
 Sorting algorithm for Inventory
+
+Pause Menu UI
+
+Add Sound effects(?)

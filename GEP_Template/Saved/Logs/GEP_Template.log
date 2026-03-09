@@ -2169,3 +2169,963 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.09-10.31.00:938][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2766.828369
 [2026.03.09-10.31.01:076][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.09-10.31.01:076][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2766.951416, Update Interval: 320.951569
+[2026.03.09-10.36.35:608][304]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.09-10.36.35:622][304]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.09-10.36.35:631][304]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.09-10.36.35:651][305]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.09-10.36.35:771][309]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.03.09-10.36.59:810][928]LogContentBrowser: Attempting asset rename: NewBlueprint -> InventoryUIHookUp
+[2026.03.09-10.36.59:819][928]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.09-10.37.03:111][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/InventoryUIHookUp.InventoryUIHookUp
+[2026.03.09-10.37.03:113][150]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.09-10.37.06:416][321]LogSlate: Window 'InventoryUIHookUp' being destroyed
+[2026.03.09-10.37.20:863][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3146.769531
+[2026.03.09-10.37.21:011][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-10.37.21:011][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3146.909180, Update Interval: 337.766663
+[2026.03.09-10.43.52:500][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3538.410400
+[2026.03.09-10.43.52:655][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-10.43.52:655][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3538.546631, Update Interval: 301.018097
+[2026.03.09-10.43.54:247][884]LogContentBrowser: Attempting asset rename: InventoryUIHookUp -> BPC_InventoryUIHookUp
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.SKEL_BPC_InventoryUIHookUp_C' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.SKEL_BPC_InventoryUIHookUp_C:ReceiveBeginPlay' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:387][884]LogMetaData: Removing '/Game/GEP/BPC_InventoryUIHookUp.SKEL_BPC_InventoryUIHookUp_C:ReceiveTick' ref from Metadata '/Game/GEP/InventoryUIHookUp.PackageMetaData'
+[2026.03.09-10.43.54:404][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.43.54:404][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-10.43.54:404][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-10.43.54:404][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-10.43.54:408][884]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-10.43.54:408][884]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp9739BACB43045122D79AB69C3F8112FB.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-10.43.54:416][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.499 ms (total: 734.235 ms)
+[2026.03.09-10.43.54:502][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.09-10.43.54:530][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.09-10.43.54:555][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.09-10.43.54:687][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-10.43.54:687][884]LogContentValidation: Enabled validators:
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.43.54:687][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.43.54:687][884]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-10.45.22:891][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.09-10.45.22:899][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.45.22:994][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-10.45.22:994][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-10.45.22:994][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-10.45.22:997][759]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-10.45.22:999][759]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUpB9A1BEA64EA35CFC4E1F26A631F4DA03.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-10.45.23:008][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.584 ms (total: 842.819 ms)
+[2026.03.09-10.45.23:110][759]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-10.45.23:110][759]LogContentValidation: Enabled validators:
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.45.23:110][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.45.23:110][759]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-10.45.26:569][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.09-10.45.26:657][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.45.26:760][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-10.45.26:760][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.09-10.45.26:821][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-10.45.26:821][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-10.45.26:845][979]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-10.45.26:846][979]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter85B70A714A128F26970B6D8EA9AE6E45.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-10.45.26:860][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.171 ms (total: 1.04 sec)
+[2026.03.09-10.45.26:960][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-10.45.26:960][979]LogContentValidation: Enabled validators:
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.45.26:960][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.45.26:960][979]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-10.45.36:077][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.09-10.45.36:089][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.45.36:155][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-10.45.36:155][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-10.45.36:155][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-10.45.36:158][761]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-10.45.36:159][761]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp3651EC28464E233D6567ECADF7225028.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-10.45.36:169][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.254 ms (total: 1.12 sec)
+[2026.03.09-10.45.36:254][761]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-10.45.36:254][761]LogContentValidation: Enabled validators:
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.45.36:254][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.45.36:254][761]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-10.46.28:384][794]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-10.47.48:922][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.03.09-10.47.48:927][649]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2026.03.09-10.47.48:928][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-10.47.49:023][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-10.47.49:023][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-10.47.49:052][649]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2026.03.09-10.47.49:054][649]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto3792C809943C670A31F26F097FFF5C87A.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2026.03.09-10.47.49:058][649]LogFileHelpers: Auto-saving content packages took 0.131
+[2026.03.09-10.49.25:840][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3871.756348
+[2026.03.09-10.49.26:011][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-10.49.26:011][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3871.915527, Update Interval: 340.277100
+[2026.03.09-10.49.37:712][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.03.09-10.49.37:845][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.49.37:939][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-10.49.37:986][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-10.49.37:987][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-10.49.38:017][374]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-10.49.38:018][374]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter09357A5242A7EE0C6F3D41BB43040CA5.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-10.49.38:037][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.162 ms (total: 1.31 sec)
+[2026.03.09-10.49.38:121][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-10.49.38:122][374]LogContentValidation: Enabled validators:
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.49.38:122][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.49.38:122][374]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-10.55.41:977][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4247.902344
+[2026.03.09-10.55.42:124][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-10.55.42:124][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4248.037598, Update Interval: 328.211914
+[2026.03.09-10.55.44:322][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.09-10.55.44:448][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-10.55.44:543][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.03.09-10.55.44:543][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.03.09-10.55.44:543][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset" SILENT=true
+[2026.03.09-10.55.44:562][684]LogSavePackage: Moving output files for package: /Game/GEP/BP_GameManager
+[2026.03.09-10.55.44:563][684]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManager2760960D44F62E7A72E3F882866D3D6A.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset'
+[2026.03.09-10.55.44:566][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-10.55.44:602][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-10.55.44:602][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-10.55.44:626][684]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-10.55.44:628][684]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacterFFF819C04D4EA241F06F2480D9E7D3CD.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-10.55.44:640][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.570 ms (total: 1.50 sec)
+[2026.03.09-10.55.44:725][684]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.09-10.55.44:725][684]LogContentValidation: Enabled validators:
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-10.55.44:725][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-10.55.44:725][684]AssetCheck: /Game/GEP/BP_GameManager Validating asset
+[2026.03.09-10.55.44:725][684]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-10.55.52:145][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.09-10.58.27:438][675]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.09-10.59.14:039][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.09-10.59.14:042][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2026.03.09-10.59.14:042][478]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-10.59.14:084][478]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-10.59.14:084][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-10.59.14:110][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2026.03.09-10.59.14:112][478]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto44A9F016946F907842F01D296A36A9B15.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2026.03.09-10.59.14:114][478]LogFileHelpers: Auto-saving content packages took 0.073
+[2026.03.09-11.02.01:127][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4627.069824
+[2026.03.09-11.02.01:720][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.02.01:721][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4627.645996, Update Interval: 332.516846
+[2026.03.09-11.04.29:601][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.09-11.04.29:764][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.04.29:855][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-11.04.29:855][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-11.04.29:855][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-11.04.29:860][233]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-11.04.29:860][233]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp2A63D90546729E133DACE49B07411939.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-11.04.29:862][233]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/WBP_InventoryMenu] ([2] browsable assets)...
+[2026.03.09-11.04.29:865][233]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GEP/WBP_InventoryMenu.WBP_InventoryMenu]
+[2026.03.09-11.04.29:865][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/WBP_InventoryMenu]
+[2026.03.09-11.04.29:865][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/WBP_InventoryMenu" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset" SILENT=true
+[2026.03.09-11.04.29:871][233]LogSavePackage: Moving output files for package: /Game/GEP/WBP_InventoryMenu
+[2026.03.09-11.04.29:872][233]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/WBP_InventoryMenu738A831D4FF6483B6D92BAA3DB45C1EB.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset'
+[2026.03.09-11.04.29:883][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.299 ms (total: 1.62 sec)
+[2026.03.09-11.04.30:005][233]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.09-11.04.30:005][233]LogContentValidation: Enabled validators:
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.04.30:005][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.04.30:005][233]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-11.04.30:006][233]AssetCheck: /Game/GEP/WBP_InventoryMenu Validating asset
+[2026.03.09-11.04.32:315][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.09-11.04.32:407][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.04.32:507][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-11.04.32:544][425]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-11.04.32:544][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-11.04.32:569][425]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-11.04.32:570][425]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter676EF49F49CD8A340AAA31A320EC3958.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-11.04.32:583][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.558 ms (total: 1.80 sec)
+[2026.03.09-11.04.32:687][425]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.04.32:687][425]LogContentValidation: Enabled validators:
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.04.32:687][425]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.04.32:687][425]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-11.04.35:624][631]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-11.04.35:633][631]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.09-11.04.35:633][631]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.09-11.04.35:637][631]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.882 ms (total: 36.260 ms)
+[2026.03.09-11.04.35:637][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-11.04.35:637][631]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.04.35:641][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004674s)
+[2026.03.09-11.04.35:642][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004724s)
+[2026.03.09-11.04.35:668][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.09-11.04.35:670][631]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.09-11.04.35:672][631]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.09-11.04.35:672][631]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.09-11.04.35:672][631]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.09-11.04.35:672][631]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.09-11.04.35:674][631]LogWorldPartition: Display: WorldPartition initialize took 1.510 ms (total: 161.412 ms)
+[2026.03.09-11.04.35:674][631]LogPlayLevel: PIE: World Init took: (0.003554s)
+[2026.03.09-11.04.35:675][631]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-11.04.35:675][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-11.04.35:675][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-11.04.35:675][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-11.04.35:675][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-11.04.35:675][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-11.04.35:677][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-11.04.35:715][631]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.09-11.04.35:716][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-11.04.35:716][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-11.04.35:716][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-11.04.35:717][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.09-11.04.35:717][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.09-11.04.35:720][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.09-11.04.35:720][631]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.09-11.04.35:720][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.09-11.04.35:720][631]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2026.03.09-11.04.35:720][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.09-11.04.35:723][631]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.09-11.04.35:725][631]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.09-11.04.35
+[2026.03.09-11.04.35:725][631]LogWorld: Bringing up level for play took: 0.001949
+[2026.03.09-11.04.35:728][631]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.03.09-11.04.35:733][631]LogScript: Warning: Accessed None trying to read property InventoryWidget
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:0018
+[2026.03.09-11.04.35:733][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryWidget". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.04.35:733][631]LogScript: Warning: Accessed None
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:002D
+[2026.03.09-11.04.35:733][631]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.04.35:734][631]PIE: Server logged in
+[2026.03.09-11.04.35:735][631]PIE: Play in editor total start time 0.103 seconds.
+[2026.03.09-11.04.36:984][712]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.04.36:985][712]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.09-11.04.36:985][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.09-11.04.41:504][ 28]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.04.42:449][ 94]Cmd: quit
+[2026.03.09-11.04.42:451][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.04.42:451][ 94]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.04.42:480][ 94]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-11.04.42:481][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.04.42:481][ 94]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.09-11.04.42:484][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-11.04.42:490][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.04.42:517][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-11.04.42:518][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.09-11.04.42:518][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.09-11.04.42:521][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.09-11.04.42:525][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.04.42:528][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.09-11.04.42:835][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.03.09-11.04.54:893][131]LogSlate: Window 'Message Log' being destroyed
+[2026.03.09-11.04.54:908][131]LogSlate: Window 'Message Log' being destroyed
+[2026.03.09-11.08.25:391][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5011.329102
+[2026.03.09-11.08.25:547][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.08.25:547][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5011.473633, Update Interval: 359.730835
+[2026.03.09-11.08.32:941][916]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.03.09-11.08.33:230][916]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-11.08.33:230][916]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=494736
+[2026.03.09-11.08.33:562][917]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-11.08.33:565][917]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9f754e19-dff9-40a7-bf97-70866c23b856}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.37
+[2026.03.09-11.08.33:565][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-11.08.33:567][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-11.09.21:354][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.09-11.09.21:356][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2026.03.09-11.09.21:356][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.03.09-11.09.21:356][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.03.09-11.09.21:356][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.03.09-11.09.21:374][ 60]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/BP_GameManager_Auto5
+[2026.03.09-11.09.21:376][ 60]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManager_Auto5818F680A4838F5DF34754BB38B0EC089.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto5.uasset'
+[2026.03.09-11.09.21:378][ 60]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.03.09-11.15.05:637][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5411.572754
+[2026.03.09-11.15.06:637][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.15.06:637][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5412.239258, Update Interval: 321.407501
+[2026.03.09-11.17.31:408][531]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.03.09-11.17.31:655][531]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-11.17.31:655][531]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=494736
+[2026.03.09-11.17.31:988][532]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-11.17.31:990][532]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b00aa10a-37e6-441f-821a-1be5506f667a}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.04
+[2026.03.09-11.17.31:990][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-11.17.31:992][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-11.21.27:380][238]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5793.319824
+[2026.03.09-11.21.28:374][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.21.28:375][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5793.980957, Update Interval: 350.650360
+[2026.03.09-11.23.22:516][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.09-11.23.22:651][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.23.22:742][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-11.23.22:791][633]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-11.23.22:791][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-11.23.22:818][633]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-11.23.22:819][633]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter5B05373F442AF03C8AE89093D90558AD.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-11.23.22:834][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.499 ms (total: 1.98 sec)
+[2026.03.09-11.23.22:951][633]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.23.22:951][633]LogContentValidation: Enabled validators:
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.23.22:951][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.23.22:951][633]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-11.23.25:741][796]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-11.23.25:750][796]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.09-11.23.25:750][796]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.09-11.23.25:755][796]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.885 ms (total: 41.145 ms)
+[2026.03.09-11.23.25:756][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-11.23.25:756][796]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.23.25:760][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004572s)
+[2026.03.09-11.23.25:760][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004637s)
+[2026.03.09-11.23.25:792][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.09-11.23.25:795][796]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.09-11.23.25:796][796]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.09-11.23.25:796][796]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.09-11.23.25:796][796]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.09-11.23.25:796][796]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.09-11.23.25:798][796]LogWorldPartition: Display: WorldPartition initialize took 1.596 ms (total: 163.008 ms)
+[2026.03.09-11.23.25:798][796]LogPlayLevel: PIE: World Init took: (0.003714s)
+[2026.03.09-11.23.25:799][796]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-11.23.25:799][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-11.23.25:799][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-11.23.25:799][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-11.23.25:799][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-11.23.25:799][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-11.23.25:802][796]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-11.23.25:840][796]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.09-11.23.25:840][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-11.23.25:840][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-11.23.25:840][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-11.23.25:841][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.03.09-11.23.25:841][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.03.09-11.23.25:844][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.03.09-11.23.25:844][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.03.09-11.23.25:844][796]LogInit: FAudioDevice initialized with ID 12.
+[2026.03.09-11.23.25:844][796]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2026.03.09-11.23.25:844][796]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.09-11.23.25:848][796]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.09-11.23.25:850][796]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.09-11.23.25
+[2026.03.09-11.23.25:850][796]LogWorld: Bringing up level for play took: 0.001696
+[2026.03.09-11.23.25:853][796]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.03.09-11.23.25:857][796]LogScript: Warning: Accessed None trying to read property InventoryWidget
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:0018
+[2026.03.09-11.23.25:857][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryWidget". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.23.25:857][796]LogScript: Warning: Accessed None
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:002D
+[2026.03.09-11.23.25:857][796]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.23.25:858][796]PIE: Server logged in
+[2026.03.09-11.23.25:859][796]PIE: Play in editor total start time 0.109 seconds.
+[2026.03.09-11.23.31:563][117]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.23.31:564][117]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.09-11.23.31:564][117]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.09-11.23.33:861][256]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Inventory Component set up
+[2026.03.09-11.23.39:898][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.23.39:898][622]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.23.39:899][622]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-11.23.39:899][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.23.39:900][622]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.09-11.23.39:908][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-11.23.39:912][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.23.39:934][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-11.23.39:935][622]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.09-11.23.39:935][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.03.09-11.23.39:937][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.03.09-11.23.39:942][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.23.39:945][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.09-11.23.40:214][623]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.03.09-11.23.46:832][960]LogSlate: Window 'Message Log' being destroyed
+[2026.03.09-11.24.04:808][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.09-11.24.05:085][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.24.05:161][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.03.09-11.24.05:161][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.03.09-11.24.05:161][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset" SILENT=true
+[2026.03.09-11.24.05:183][600]LogSavePackage: Moving output files for package: /Game/GEP/BP_GameManager
+[2026.03.09-11.24.05:184][600]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManagerE7B5BEE54148F53C096AE5A40FDA61DC.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset'
+[2026.03.09-11.24.05:198][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.372 ms (total: 2.10 sec)
+[2026.03.09-11.24.05:312][600]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.24.05:312][600]LogContentValidation: Enabled validators:
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.24.05:312][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.24.05:312][600]AssetCheck: /Game/GEP/BP_GameManager Validating asset
+[2026.03.09-11.24.06:871][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-11.24.06:880][682]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.09-11.24.06:880][682]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.09-11.24.06:884][682]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.471 ms (total: 45.617 ms)
+[2026.03.09-11.24.06:884][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-11.24.06:885][682]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.24.06:889][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003691s)
+[2026.03.09-11.24.06:889][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003728s)
+[2026.03.09-11.24.06:912][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.09-11.24.06:915][682]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.09-11.24.06:917][682]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.09-11.24.06:917][682]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.09-11.24.06:917][682]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.09-11.24.06:917][682]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.09-11.24.06:918][682]LogWorldPartition: Display: WorldPartition initialize took 1.466 ms (total: 164.475 ms)
+[2026.03.09-11.24.06:918][682]LogPlayLevel: PIE: World Init took: (0.003779s)
+[2026.03.09-11.24.06:919][682]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-11.24.06:919][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-11.24.06:919][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-11.24.06:919][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-11.24.06:919][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-11.24.06:919][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-11.24.06:922][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-11.24.06:955][682]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.09-11.24.06:957][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-11.24.06:957][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-11.24.06:957][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-11.24.06:958][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.09-11.24.06:958][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.09-11.24.06:961][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.09-11.24.06:961][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.09-11.24.06:961][682]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.09-11.24.06:961][682]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2026.03.09-11.24.06:961][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.09-11.24.06:965][682]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.09-11.24.06:967][682]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.09-11.24.06
+[2026.03.09-11.24.06:967][682]LogWorld: Bringing up level for play took: 0.001948
+[2026.03.09-11.24.06:970][682]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.03.09-11.24.06:974][682]LogScript: Warning: Accessed None trying to read property InventoryWidget
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:0018
+[2026.03.09-11.24.06:974][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryWidget". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.24.06:974][682]LogScript: Warning: Accessed None
+	BPC_InventoryUIHookUp_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+	Function /Game/GEP/BPC_InventoryUIHookUp.BPC_InventoryUIHookUp_C:ExecuteUbergraph_BPC_InventoryUIHookUp:002D
+[2026.03.09-11.24.06:974][682]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Text Graph:  EventGraph Function:  Execute Ubergraph BPC Inventory UIHook Up Blueprint:  BPC_InventoryUIHookUp
+[2026.03.09-11.24.06:974][682]PIE: Server logged in
+[2026.03.09-11.24.06:975][682]PIE: Play in editor total start time 0.096 seconds.
+[2026.03.09-11.24.08:903][791]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.24.08:904][791]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.09-11.24.08:904][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.09-11.24.09:657][836]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Inventory Component set up
+[2026.03.09-11.24.11:868][972]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.24.12:507][ 11]Cmd: quit
+[2026.03.09-11.24.12:507][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.24.12:508][ 11]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.24.12:508][ 11]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-11.24.12:509][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.24.12:509][ 11]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.09-11.24.12:532][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-11.24.12:541][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.24.12:570][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-11.24.12:571][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.09-11.24.12:571][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.09-11.24.12:574][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.09-11.24.12:581][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.24.12:584][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.09-11.24.12:795][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.03.09-11.24.26:910][988]LogSlate: Window 'Message Log' being destroyed
+[2026.03.09-11.28.00:629][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6186.563965
+[2026.03.09-11.28.01:135][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.28.01:135][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6187.037109, Update Interval: 324.945221
+[2026.03.09-11.28.37:728][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.09-11.28.37:751][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.28.37:832][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-11.28.37:832][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-11.28.37:832][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-11.28.37:836][ 59]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-11.28.37:837][ 59]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp579CC8EF43C704DA8769B08EC2098C2A.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-11.28.37:846][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.082 ms (total: 2.19 sec)
+[2026.03.09-11.28.37:950][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.28.37:950][ 59]LogContentValidation: Enabled validators:
+[2026.03.09-11.28.37:950][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.28.37:951][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.28.37:951][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.28.37:951][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.28.37:951][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.28.37:951][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.28.37:951][ 59]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-11.29.10:107][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.09-11.29.10:131][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.29.10:222][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-11.29.10:222][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-11.29.10:222][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-11.29.10:226][198]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-11.29.10:226][198]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUpB491518249710C9997EE379E1D332F04.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-11.29.10:236][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.712 ms (total: 2.30 sec)
+[2026.03.09-11.29.10:337][198]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.29.10:337][198]LogContentValidation: Enabled validators:
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.29.10:337][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.29.10:337][198]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-11.29.46:572][723]LogEditorTransaction: Undo Move Node
+[2026.03.09-11.30.03:658][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.09-11.30.03:792][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.30.03:902][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-11.30.03:947][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-11.30.03:947][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-11.30.03:974][827]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-11.30.03:975][827]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacterC808A4A841F788E749B90C905C1F23F5.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-11.30.03:992][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.060 ms (total: 2.50 sec)
+[2026.03.09-11.30.04:065][827]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-11.30.04:065][827]LogContentValidation: Enabled validators:
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.30.04:065][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.30.04:065][827]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-11.30.06:112][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-11.30.06:124][932]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.09-11.30.06:124][932]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.09-11.30.06:131][932]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.928 ms (total: 52.545 ms)
+[2026.03.09-11.30.06:131][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-11.30.06:132][932]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.30.06:136][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005289s)
+[2026.03.09-11.30.06:136][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005348s)
+[2026.03.09-11.30.06:169][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.03.09-11.30.06:172][932]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.09-11.30.06:174][932]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.09-11.30.06:174][932]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.09-11.30.06:174][932]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.09-11.30.06:174][932]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.09-11.30.06:176][932]LogWorldPartition: Display: WorldPartition initialize took 1.741 ms (total: 166.217 ms)
+[2026.03.09-11.30.06:176][932]LogPlayLevel: PIE: World Init took: (0.003886s)
+[2026.03.09-11.30.06:177][932]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-11.30.06:177][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-11.30.06:177][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-11.30.06:177][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-11.30.06:178][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-11.30.06:178][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-11.30.06:180][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-11.30.06:225][932]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.09-11.30.06:226][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-11.30.06:226][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-11.30.06:226][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-11.30.06:226][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.03.09-11.30.06:226][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.03.09-11.30.06:229][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.03.09-11.30.06:229][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.03.09-11.30.06:229][932]LogInit: FAudioDevice initialized with ID 14.
+[2026.03.09-11.30.06:229][932]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2026.03.09-11.30.06:229][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.09-11.30.06:233][932]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.09-11.30.06:236][932]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.09-11.30.06
+[2026.03.09-11.30.06:236][932]LogWorld: Bringing up level for play took: 0.002451
+[2026.03.09-11.30.06:239][932]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.03.09-11.30.06:245][932]PIE: Server logged in
+[2026.03.09-11.30.06:247][932]PIE: Play in editor total start time 0.123 seconds.
+[2026.03.09-11.30.09:186][102]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.30.09:187][102]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.09-11.30.09:187][102]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.09-11.30.10:304][170]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Inventory Component set up
+[2026.03.09-11.30.12:427][300]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-11.30.13:189][347]Cmd: quit
+[2026.03.09-11.30.13:190][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.30.13:190][347]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-11.30.13:190][347]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-11.30.13:191][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.30.13:191][347]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.09-11.30.13:209][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-11.30.13:218][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-11.30.13:251][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-11.30.13:251][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.09-11.30.13:251][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.03.09-11.30.13:254][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.03.09-11.30.13:261][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-11.30.13:264][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.09-11.30.13:421][348]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.03.09-11.34.13:823][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6559.742188
+[2026.03.09-11.34.14:826][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.34.14:826][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6560.410645, Update Interval: 336.633209
+[2026.03.09-11.40.40:161][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6946.109863
+[2026.03.09-11.40.40:308][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.40.40:308][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6946.240723, Update Interval: 319.246796
+[2026.03.09-11.43.53:250][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.03.09-11.43.53:256][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.079
+[2026.03.09-11.43.53:257][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-11.43.53:376][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-11.43.53:376][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-11.43.53:415][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2026.03.09-11.43.53:416][815]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto623C0A77F4B3943D0C32F89A876B0179C.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2026.03.09-11.43.53:420][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-11.43.53:420][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-11.43.53:425][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/BPC_InventoryUIHookUp_Auto6
+[2026.03.09-11.43.53:425][815]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp_Auto6F030C7CC47AA207BCD9F66A3C41CBAE8.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BPC_InventoryUIHookUp_Auto6.uasset'
+[2026.03.09-11.43.53:428][815]LogFileHelpers: Auto-saving content packages took 0.171
+[2026.03.09-11.46.28:384][281]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-11.46.42:769][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7308.701660
+[2026.03.09-11.46.42:942][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.46.42:943][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7308.859863, Update Interval: 354.166077
+[2026.03.09-11.47.59:148][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.09-11.47.59:260][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-11.47.59:367][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-11.47.59:367][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-11.47.59:367][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-11.47.59:371][ 88]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-11.47.59:372][ 88]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUpF191CA214FC8B47B4F24CD9E6339A7DF.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-11.47.59:374][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-11.47.59:453][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-11.47.59:453][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-11.47.59:481][ 88]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-11.47.59:482][ 88]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter63FD612E4433DC2E336B59BC9A192853.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-11.47.59:505][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.426 ms (total: 2.74 sec)
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: Enabled validators:
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-11.47.59:610][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-11.47.59:610][ 88]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-11.47.59:610][ 88]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-11.53.15:933][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7701.873535
+[2026.03.09-11.53.16:929][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.53.16:929][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7702.540039, Update Interval: 306.099426
+[2026.03.09-11.57.39:366][ 74]LogEditorTransaction: Undo Move Node
+[2026.03.09-11.57.40:915][145]LogEditorTransaction: Undo Add Node
+[2026.03.09-11.59.14:491][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8060.448242
+[2026.03.09-11.59.14:634][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-11.59.14:634][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8060.581055, Update Interval: 349.714661
+[2026.03.09-12.02.56:504][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2026.03.09-12.02.56:511][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2026.03.09-12.02.56:512][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-12.02.56:626][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-12.02.56:626][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-12.02.56:691][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.03.09-12.02.56:695][678]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto7635F4267499CBFDFB53ACDBF8E3A5C2E.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.03.09-12.02.56:700][678]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/WBP_InventoryMenu] ([2] browsable assets)...
+[2026.03.09-12.02.56:707][678]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GEP/WBP_InventoryMenu.WBP_InventoryMenu]
+[2026.03.09-12.02.56:708][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/WBP_InventoryMenu]
+[2026.03.09-12.02.56:726][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/WBP_InventoryMenu_Auto7
+[2026.03.09-12.02.56:726][678]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/WBP_InventoryMenu_Auto741E0AA124EC7C61C6B06769979815C71.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/WBP_InventoryMenu_Auto7.uasset'
+[2026.03.09-12.02.56:730][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.02.56:730][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.02.56:736][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/BPC_InventoryUIHookUp_Auto7
+[2026.03.09-12.02.56:736][678]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp_Auto7FF21C4D143023E2F22EA889F51F40340.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BPC_InventoryUIHookUp_Auto7.uasset'
+[2026.03.09-12.02.56:738][678]LogFileHelpers: Auto-saving content packages took 0.227
+[2026.03.09-12.05.46:410][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8452.354492
+[2026.03.09-12.05.46:558][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-12.05.46:558][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8452.483398, Update Interval: 321.966003
+[2026.03.09-12.07.50:227][437]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.07.50:227][437]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.07.50:227][437]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.07.50:227][437]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.07.50:303][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.09-12.07.50:425][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.07.50:521][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/BP_Item] ([2] browsable assets)...
+[2026.03.09-12.07.50:558][437]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GEP/BP_Item.BP_Item]
+[2026.03.09-12.07.50:558][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_Item]
+[2026.03.09-12.07.50:558][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_Item" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_Item.uasset" SILENT=true
+[2026.03.09-12.07.50:563][437]LogSavePackage: Moving output files for package: /Game/GEP/BP_Item
+[2026.03.09-12.07.50:564][437]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_Item4B7CE12D45244D5E9A9EA7AD1F5B3E94.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_Item.uasset'
+[2026.03.09-12.07.50:565][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.07.50:565][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.07.50:565][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-12.07.50:569][437]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-12.07.50:569][437]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUpBA61AEFC49EDA66C328DC183BDA4BEB2.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-12.07.50:571][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/WBP_InventoryMenu] ([2] browsable assets)...
+[2026.03.09-12.07.50:575][437]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GEP/WBP_InventoryMenu.WBP_InventoryMenu]
+[2026.03.09-12.07.50:575][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/WBP_InventoryMenu]
+[2026.03.09-12.07.50:575][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/WBP_InventoryMenu" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset" SILENT=true
+[2026.03.09-12.07.50:582][437]LogSavePackage: Moving output files for package: /Game/GEP/WBP_InventoryMenu
+[2026.03.09-12.07.50:583][437]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/WBP_InventoryMenu2FAEC7F8473C2D4036670D996F24AA93.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset'
+[2026.03.09-12.07.50:594][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.499 ms (total: 2.91 sec)
+[2026.03.09-12.07.50:704][437]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.09-12.07.50:704][437]LogContentValidation: Enabled validators:
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.07.50:704][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.07.50:704][437]AssetCheck: /Game/GEP/BP_Item Validating asset
+[2026.03.09-12.07.50:704][437]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-12.07.50:705][437]AssetCheck: /Game/GEP/WBP_InventoryMenu Validating asset
+[2026.03.09-12.08.04:795][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.09-12.08.04:820][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.08.04:899][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.08.04:899][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.08.04:899][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-12.08.04:903][904]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-12.08.04:904][904]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp481E4F374ECE68B2E4DAA1A7EC7D9832.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-12.08.04:916][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.133 ms (total: 3.01 sec)
+[2026.03.09-12.08.05:016][904]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.08.05:016][904]LogContentValidation: Enabled validators:
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.08.05:016][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.08.05:016][904]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-12.08.21:601][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.09-12.08.21:708][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.08.21:814][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.08.21:814][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.08.21:814][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-12.08.21:817][298]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-12.08.21:818][298]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp843C6144450F7C6FD61765AE0484D356.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-12.08.21:830][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.485 ms (total: 3.13 sec)
+[2026.03.09-12.08.21:930][298]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.08.21:930][298]LogContentValidation: Enabled validators:
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.08.21:930][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.08.21:930][298]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-12.08.23:535][398]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.08.23:535][398]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.08.23:535][398]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.08.23:535][398]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.08.23:591][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.09-12.08.46:811][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.09-12.08.46:914][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.08.47:009][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.08.47:009][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.08.47:009][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-12.08.47:012][228]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-12.08.47:013][228]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUpB633F5784422777A5F7B5B84EC2575A4.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-12.08.47:029][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.437 ms (total: 3.25 sec)
+[2026.03.09-12.08.47:138][228]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.08.47:138][228]LogContentValidation: Enabled validators:
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.08.47:139][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.08.47:139][228]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-12.08.48:142][273]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Buttons  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.03.09-12.08.48:142][273]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Buttons  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.03.09-12.08.48:202][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.09-12.09.07:316][470]LogEditorTransaction: Undo Change Parameter Type
+[2026.03.09-12.09.07:632][474]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.07:850][477]LogEditorTransaction: Undo Remove Parameter
+[2026.03.09-12.09.08:175][478]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.08:298][478]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.08:532][479]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.08:821][480]LogEditorTransaction: Undo Create Reroute Node
+[2026.03.09-12.09.09:105][481]LogEditorTransaction: Undo Create Pin Link
+[2026.03.09-12.09.09:390][482]LogEditorTransaction: Undo Change Parameter Type
+[2026.03.09-12.09.09:737][485]LogEditorTransaction: Undo Rename Parameter
+[2026.03.09-12.09.10:098][489]LogEditorTransaction: Undo Add In Parameter
+[2026.03.09-12.09.10:542][499]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.10:909][505]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.11:340][515]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.11:831][518]LogEditorTransaction: Undo Change Parameter Type
+[2026.03.09-12.09.12:330][529]LogEditorTransaction: Undo Change Parameter Type
+[2026.03.09-12.09.13:058][553]LogEditorTransaction: Undo Rename Variable
+[2026.03.09-12.09.13:745][577]LogEditorTransaction: Undo Add Variable
+[2026.03.09-12.09.15:231][657]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.16:604][719]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.18:073][815]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.18:622][850]LogEditorTransaction: Undo Create Pin Link
+[2026.03.09-12.09.22:840][ 98]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.23:619][120]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.24:704][182]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.25:408][220]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.25:973][251]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.26:405][274]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.26:697][279]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.27:343][305]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.28:123][349]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.28:735][383]LogEditorTransaction: Undo Delete current selection
+[2026.03.09-12.09.31:566][578]Cmd: TRANSACTION UNDO
+[2026.03.09-12.09.31:566][578]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.32:123][587]Cmd: TRANSACTION UNDO
+[2026.03.09-12.09.32:123][587]LogEditorTransaction: Undo Move Node
+[2026.03.09-12.09.33:829][725]Cmd: TRANSACTION UNDO
+[2026.03.09-12.09.33:829][725]LogEditorTransaction: Undo Create Pin Link
+[2026.03.09-12.09.34:307][754]Cmd: TRANSACTION UNDO
+[2026.03.09-12.09.34:307][754]LogEditorTransaction: Undo Add Node
+[2026.03.09-12.09.46:001][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.09-12.09.46:025][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.09.46:129][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_InventoryUIHookUp] ([2] browsable assets)...
+[2026.03.09-12.09.46:129][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_InventoryUIHookUp]
+[2026.03.09-12.09.46:129][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_InventoryUIHookUp" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset" SILENT=true
+[2026.03.09-12.09.46:134][700]LogSavePackage: Moving output files for package: /Game/GEP/BPC_InventoryUIHookUp
+[2026.03.09-12.09.46:135][700]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryUIHookUp9C3D05AD47977C621959E3A576EA6465.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_InventoryUIHookUp.uasset'
+[2026.03.09-12.09.46:145][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.346 ms (total: 3.37 sec)
+[2026.03.09-12.09.46:260][700]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.09.46:260][700]LogContentValidation: Enabled validators:
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.09.46:260][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.09.46:260][700]AssetCheck: /Game/GEP/BPC_InventoryUIHookUp Validating asset
+[2026.03.09-12.09.48:931][940]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.09.48:931][940]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.09.48:931][940]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array  and  Buttons : Array of Button Object References is not compatible with Array of Texts.
+[2026.03.09-12.09.48:931][940]LogBlueprint: Error: [AssetLog] D:\gep-25-26-unreal-template-Daniel2-Robb\GEP_Template\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Can't connect pins  Buttons  and  Target Array : Array of Texts is not compatible with Array of Button Object References.
+[2026.03.09-12.09.49:003][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.09-12.09.49:172][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.09.49:276][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/WBP_InventoryMenu] ([2] browsable assets)...
+[2026.03.09-12.09.49:279][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GEP/WBP_InventoryMenu.WBP_InventoryMenu]
+[2026.03.09-12.09.49:280][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/WBP_InventoryMenu]
+[2026.03.09-12.09.49:280][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/WBP_InventoryMenu" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset" SILENT=true
+[2026.03.09-12.09.49:287][940]LogSavePackage: Moving output files for package: /Game/GEP/WBP_InventoryMenu
+[2026.03.09-12.09.49:288][940]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/WBP_InventoryMenuE08047C84C6417B1C62385BE38C2176E.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/WBP_InventoryMenu.uasset'
+[2026.03.09-12.09.49:298][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.302 ms (total: 3.49 sec)
+[2026.03.09-12.09.49:392][940]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.09.49:392][940]LogContentValidation: Enabled validators:
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.09.49:392][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.09.49:393][940]AssetCheck: /Game/GEP/WBP_InventoryMenu Validating asset
+[2026.03.09-12.10.09:958][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.09-12.10.10:071][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.10.10:174][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.09-12.10.10:212][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.09-12.10.10:212][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.09-12.10.10:238][345]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.09-12.10.10:239][345]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_ThirdPersonCharacter3FD302A94DBE749DA9CF8E9CD15BA145.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.09-12.10.10:256][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.082 ms (total: 3.68 sec)
+[2026.03.09-12.10.10:356][345]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.10.10:356][345]LogContentValidation: Enabled validators:
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.10.10:356][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.10.10:356][345]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.09-12.10.18:154][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.09-12.10.18:182][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.10.18:289][974]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/BP_Item] ([2] browsable assets)...
+[2026.03.09-12.10.18:328][974]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GEP/BP_Item.BP_Item]
+[2026.03.09-12.10.18:328][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_Item]
+[2026.03.09-12.10.18:328][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_Item" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_Item.uasset" SILENT=true
+[2026.03.09-12.10.18:333][974]LogSavePackage: Moving output files for package: /Game/GEP/BP_Item
+[2026.03.09-12.10.18:335][974]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_Item4C27F7E04DBA2DBA2ED7F1980DB75D5C.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_Item.uasset'
+[2026.03.09-12.10.18:349][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.294 ms (total: 3.84 sec)
+[2026.03.09-12.10.18:454][974]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.10.18:454][974]LogContentValidation: Enabled validators:
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.10.18:454][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.10.18:454][974]AssetCheck: /Game/GEP/BP_Item Validating asset
+[2026.03.09-12.10.25:479][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-12.10.25:491][586]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.09-12.10.25:491][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.09-12.10.25:495][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.583 ms (total: 56.128 ms)
+[2026.03.09-12.10.25:495][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-12.10.25:495][586]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-12.10.25:500][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005295s)
+[2026.03.09-12.10.25:500][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005349s)
+[2026.03.09-12.10.25:528][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.09-12.10.25:532][586]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.09-12.10.25:534][586]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.09-12.10.25:534][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.09-12.10.25:534][586]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.09-12.10.25:534][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.09-12.10.25:535][586]LogWorldPartition: Display: WorldPartition initialize took 1.666 ms (total: 167.884 ms)
+[2026.03.09-12.10.25:536][586]LogPlayLevel: PIE: World Init took: (0.003838s)
+[2026.03.09-12.10.25:537][586]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-12.10.25:537][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-12.10.25:537][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-12.10.25:537][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-12.10.25:537][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-12.10.25:537][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-12.10.25:540][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-12.10.25:583][586]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.09-12.10.25:585][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-12.10.25:585][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-12.10.25:585][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-12.10.25:586][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.03.09-12.10.25:586][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.03.09-12.10.25:588][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.03.09-12.10.25:588][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.03.09-12.10.25:588][586]LogInit: FAudioDevice initialized with ID 15.
+[2026.03.09-12.10.25:588][586]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2026.03.09-12.10.25:588][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.09-12.10.25:593][586]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.09-12.10.25:595][586]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.09-12.10.25
+[2026.03.09-12.10.25:595][586]LogWorld: Bringing up level for play took: 0.002040
+[2026.03.09-12.10.25:598][586]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.03.09-12.10.25:604][586]PIE: Server logged in
+[2026.03.09-12.10.25:605][586]PIE: Play in editor total start time 0.115 seconds.
+[2026.03.09-12.10.27:456][708]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-12.10.27:457][708]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.09-12.10.27:457][708]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.09-12.10.29:468][850]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.03.09-12.10.30:248][905]Cmd: quit
+[2026.03.09-12.10.30:250][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.10.30:250][905]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.09-12.10.30:281][905]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.10.30:281][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.10.30:282][905]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.09-12.10.30:287][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-12.10.30:293][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.10.30:318][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.10.30:318][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.09-12.10.30:318][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.09-12.10.30:321][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.09-12.10.30:331][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.09-12.10.30:505][906]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.03.09-12.11.46:379][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8812.392578
+[2026.03.09-12.11.47:379][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-12.11.47:379][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8813.059570, Update Interval: 359.893799

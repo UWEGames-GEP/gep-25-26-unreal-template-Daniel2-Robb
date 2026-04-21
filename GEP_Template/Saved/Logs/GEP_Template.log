@@ -1853,3 +1853,390 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.21-10.54.45:930][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2063.458740
 [2026.04.21-10.54.46:929][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.21-10.54.46:929][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2064.125244, Update Interval: 341.635803
+[2026.04.21-11.01.07:331][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2444.859619
+[2026.04.21-11.01.08:331][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.01.08:331][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2445.526367, Update Interval: 335.594971
+[2026.04.21-11.07.19:054][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2816.582031
+[2026.04.21-11.07.20:053][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.07.20:053][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2817.248535, Update Interval: 338.784760
+[2026.04.21-11.13.47:440][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.966797
+[2026.04.21-11.13.48:441][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.13.48:441][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3205.633545, Update Interval: 345.633118
+[2026.04.21-11.17.44:194][531]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.21-11.20.30:836][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3608.361572
+[2026.04.21-11.20.31:835][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.20.31:836][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3609.028320, Update Interval: 332.797028
+[2026.04.21-11.27.03:402][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4000.931396
+[2026.04.21-11.27.04:402][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.27.04:402][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4001.597168, Update Interval: 345.966370
+[2026.04.21-11.32.24:460][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/BP_Item.BP_Item
+[2026.04.21-11.32.24:460][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.21-11.33.44:634][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4402.143555
+[2026.04.21-11.33.45:635][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.33.45:635][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4402.810547, Update Interval: 353.514221
+[2026.04.21-11.40.18:544][701]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.04.21-11.40.18:703][701]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.04.21-11.40.18:703][701]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22420
+[2026.04.21-11.40.19:036][702]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.04.21-11.40.19:038][702]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0ada3690-bdbe-40a8-b960-e8b0a7778c5a}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=187.90
+[2026.04.21-11.40.19:038][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.21-11.40.19:040][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.21-11.40.37:710][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4815.214355
+[2026.04.21-11.40.38:711][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.40.38:711][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4815.881348, Update Interval: 300.494385
+[2026.04.21-11.46.09:763][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5147.255371
+[2026.04.21-11.46.10:762][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.46.10:762][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5147.921387, Update Interval: 334.386414
+[2026.04.21-11.52.37:157][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5534.645020
+[2026.04.21-11.52.38:158][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.52.38:158][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5535.312012, Update Interval: 315.368500
+[2026.04.21-11.54.11:653][200]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.04.21-11.54.11:831][200]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.04.21-11.54.11:831][200]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22420
+[2026.04.21-11.54.12:498][202]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.04.21-11.54.12:500][202]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a0eb88b7-4557-457c-8934-a72a29fad3f7}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=391.90
+[2026.04.21-11.54.12:500][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.21-11.54.12:502][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.21-11.58.27:549][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5885.043457
+[2026.04.21-11.58.28:551][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-11.58.28:551][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5885.711426, Update Interval: 316.252930
+[2026.04.21-12.04.33:941][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6251.429688
+[2026.04.21-12.04.34:943][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.04.34:943][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6252.097168, Update Interval: 327.878662
+[2026.04.21-12.10.55:662][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6633.147461
+[2026.04.21-12.10.56:663][215]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.10.56:663][215]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6633.814453, Update Interval: 302.473816
+[2026.04.21-12.16.38:390][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6975.871582
+[2026.04.21-12.16.39:390][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.16.39:390][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6976.538086, Update Interval: 317.673889
+[2026.04.21-12.17.44:237][437]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.21-12.22.34:443][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7331.917969
+[2026.04.21-12.22.35:443][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.22.35:443][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7332.584961, Update Interval: 314.799042
+[2026.04.21-12.28.42:943][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7700.424805
+[2026.04.21-12.28.43:942][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.28.43:942][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7701.091309, Update Interval: 344.651642
+[2026.04.21-12.35.18:345][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8095.833008
+[2026.04.21-12.35.19:345][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.35.19:345][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8096.500000, Update Interval: 329.372833
+[2026.04.21-12.40.02:954][ 64]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.04.21-12.40.03:059][ 64]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.04.21-12.40.03:059][ 64]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22420
+[2026.04.21-12.40.03:392][ 65]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.04.21-12.40.03:394][ 65]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0ada3690-bdbe-40a8-b960-e8b0a7778c5a}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=286.94
+[2026.04.21-12.40.03:394][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.21-12.40.03:396][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.21-12.40.07:873][ 79]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.04.21-12.40.08:061][ 79]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.04.21-12.40.08:061][ 79]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22420
+[2026.04.21-12.40.08:728][ 81]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.04.21-12.40.08:729][ 81]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a0eb88b7-4557-457c-8934-a72a29fad3f7}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=397.65
+[2026.04.21-12.40.08:729][ 81]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.21-12.40.08:730][ 81]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.21-12.41.23:409][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8460.874023
+[2026.04.21-12.41.24:412][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.41.24:412][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8461.541016, Update Interval: 347.892700
+[2026.04.21-12.47.57:136][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8854.551758
+[2026.04.21-12.47.58:136][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.47.58:136][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8855.218750, Update Interval: 342.207092
+[2026.04.21-12.52.08:122][512]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-12.52.08:122][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-12.52.08:190][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.21-12.52.08:589][557]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-12.52.08:589][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-12.52.08:619][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.21-12.52.08:885][587]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.21-12.52.08:885][587]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-12.52.08:885][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-12.52.08:918][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.21-12.52.12:128][887]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GEP/WBP_PauseMenu.WBP_PauseMenu
+[2026.04.21-12.52.12:128][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.21-12.52.12:143][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.21-12.52.12:147][887]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.04.21-12.52.12:417][887]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2026.04.21-12.52.12:425][887]LogSlate: Took 0.007772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.04.21-12.52.20:334][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/BP_GameManager.BP_GameManager
+[2026.04.21-12.52.20:335][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.21-12.54.24:149][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9241.557617
+[2026.04.21-12.54.25:150][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-12.54.25:150][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9242.225586, Update Interval: 330.037537
+[2026.04.21-12.55.31:521][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-12.55.31:527][516]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-12.55.31:527][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.21-12.55.31:529][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.930 ms (total: 5.630 ms)
+[2026.04.21-12.55.31:529][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-12.55.31:556][516]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.21-12.55.31:559][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2026.04.21-12.55.31:559][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002698s)
+[2026.04.21-12.55.31:600][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.21-12.55.31:601][516]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.21-12.55.31:601][516]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-12.55.31:601][516]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-12.55.31:601][516]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-12.55.31:601][516]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-12.55.31:602][516]LogWorldPartition: Display: WorldPartition initialize took 920 us (total: 80.370 ms)
+[2026.04.21-12.55.31:602][516]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2026.04.21-12.55.31:603][516]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-12.55.31:603][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-12.55.31:603][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-12.55.31:603][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-12.55.31:603][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-12.55.31:603][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-12.55.31:606][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-12.55.31:652][516]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.21-12.55.31:652][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-12.55.31:652][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-12.55.31:652][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-12.55.31:653][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.21-12.55.31:653][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.21-12.55.31:654][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.21-12.55.31:654][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.21-12.55.31:654][516]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.21-12.55.31:654][516]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2026.04.21-12.55.31:654][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.21-12.55.31:658][516]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.21-12.55.31:659][516]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.21-13.55.31
+[2026.04.21-12.55.31:659][516]LogWorld: Bringing up level for play took: 0.001318
+[2026.04.21-12.55.31:661][516]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.21-12.55.31:665][516]PIE: Server logged in
+[2026.04.21-12.55.31:665][516]PIE: Play in editor total start time 0.139 seconds.
+[2026.04.21-12.55.33:870][733]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-12.55.33:871][733]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.21-12.55.33:871][733]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.21-12.55.34:691][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonNames' of length 0 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-12.55.34:691][817]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-12.55.35:917][945]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-12.55.36:636][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonNames' of length 0 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-12.55.36:636][ 20]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-12.55.37:736][135]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-12.55.39:497][319]Cmd: quit
+[2026.04.21-12.55.39:498][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-12.55.39:498][319]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.21-12.55.39:526][319]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-12.55.39:527][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-12.55.39:527][319]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.21-12.55.39:530][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-12.55.39:532][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-12.55.39:551][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-12.55.39:551][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.21-12.55.39:551][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.04.21-12.55.39:552][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.04.21-12.55.39:556][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-12.55.39:558][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.21-12.55.39:621][320]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.04.21-12.57.20:069][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.21-12.57.20:071][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.014
+[2026.04.21-12.57.20:073][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.04.21-12.57.20:073][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.04.21-12.57.20:073][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.21-12.57.20:087][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/BP_GameManager_Auto2
+[2026.04.21-12.57.20:088][ 46]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManager_Auto23F0B73B9401EC2D6963F4B9C1C182162.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto2.uasset'
+[2026.04.21-12.57.20:089][ 46]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.04.21-13.00.28:377][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9605.839844
+[2026.04.21-13.00.29:378][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.00.29:378][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9606.505859, Update Interval: 334.457825
+[2026.04.21-13.06.35:726][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9973.112305
+[2026.04.21-13.06.36:725][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.06.36:725][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9973.780273, Update Interval: 358.615692
+[2026.04.21-13.07.20:456][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.21-13.07.20:458][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2026.04.21-13.07.20:458][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.04.21-13.07.20:458][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.04.21-13.07.20:458][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.04.21-13.07.20:473][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/BP_GameManager_Auto3
+[2026.04.21-13.07.20:473][824]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManager_Auto32882091B4F74A8FF900F0B8AEF0FA535.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/Autosaves/Game/GEP/BP_GameManager_Auto3.uasset'
+[2026.04.21-13.07.20:473][824]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.04.21-13.13.15:990][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10373.316406
+[2026.04.21-13.13.16:989][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.13.16:989][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10373.983398, Update Interval: 341.579041
+[2026.04.21-13.13.41:587][266]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GEP/WBP_InventoryMenu.WBP_InventoryMenu
+[2026.04.21-13.13.41:587][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.21-13.13.41:602][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.21-13.14.27:854][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/BPC_Inventory.BPC_Inventory
+[2026.04.21-13.14.27:854][529]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.21-13.17.44:270][395]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.21-13.19.53:622][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10770.936523
+[2026.04.21-13.19.54:620][786]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.19.54:620][786]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10771.602539, Update Interval: 334.955902
+[2026.04.21-13.26.13:700][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11150.987305
+[2026.04.21-13.26.14:701][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.26.14:701][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11151.654297, Update Interval: 306.956390
+[2026.04.21-13.32.20:080][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11517.331055
+[2026.04.21-13.32.21:081][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.32.21:081][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11517.998047, Update Interval: 319.915161
+[2026.04.21-13.38.21:387][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11878.625000
+[2026.04.21-13.38.22:387][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.38.22:387][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11879.291992, Update Interval: 306.026184
+[2026.04.21-13.44.04:185][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12221.394531
+[2026.04.21-13.44.04:335][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-13.44.04:335][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12221.537109, Update Interval: 310.646088
+[2026.04.21-13.44.48:435][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.04.21-13.44.48:445][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-13.44.48:481][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_Inventory] ([2] browsable assets)...
+[2026.04.21-13.44.48:481][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_Inventory]
+[2026.04.21-13.44.48:481][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_Inventory" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset" SILENT=true
+[2026.04.21-13.44.48:487][916]LogSavePackage: Moving output files for package: /Game/GEP/BPC_Inventory
+[2026.04.21-13.44.48:488][916]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_Inventory2A8BB7744B583C3A0D5BE1906C66B625.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset'
+[2026.04.21-13.44.48:495][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.537 ms (total: 417.658 ms)
+[2026.04.21-13.44.48:531][916]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-13.44.48:531][916]LogContentValidation: Enabled validators:
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-13.44.48:531][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-13.44.48:531][916]AssetCheck: /Game/GEP/BPC_Inventory Validating asset
+[2026.04.21-13.45.01:826][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.21-13.45.01:836][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-13.45.01:883][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_Inventory] ([2] browsable assets)...
+[2026.04.21-13.45.01:883][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_Inventory]
+[2026.04.21-13.45.01:883][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_Inventory" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset" SILENT=true
+[2026.04.21-13.45.01:890][397]LogSavePackage: Moving output files for package: /Game/GEP/BPC_Inventory
+[2026.04.21-13.45.01:890][397]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_InventoryDF90832F498164A91CDB2DA17D6927BC.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset'
+[2026.04.21-13.45.01:898][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.589 ms (total: 480.247 ms)
+[2026.04.21-13.45.01:933][397]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-13.45.01:933][397]LogContentValidation: Enabled validators:
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-13.45.01:933][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-13.45.01:933][397]AssetCheck: /Game/GEP/BPC_Inventory Validating asset
+[2026.04.21-13.45.03:459][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-13.45.03:464][531]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-13.45.03:464][531]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.21-13.45.03:466][531]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.729 ms (total: 7.359 ms)
+[2026.04.21-13.45.03:466][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-13.45.03:466][531]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.21-13.45.03:469][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002432s)
+[2026.04.21-13.45.03:469][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002462s)
+[2026.04.21-13.45.03:480][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.21-13.45.03:483][531]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.21-13.45.03:485][531]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-13.45.03:485][531]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-13.45.03:485][531]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-13.45.03:485][531]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-13.45.03:486][531]LogWorldPartition: Display: WorldPartition initialize took 884 us (total: 81.255 ms)
+[2026.04.21-13.45.03:486][531]LogPlayLevel: PIE: World Init took: (0.002243s)
+[2026.04.21-13.45.03:486][531]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-13.45.03:486][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-13.45.03:486][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-13.45.03:486][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-13.45.03:486][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-13.45.03:486][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-13.45.03:489][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-13.45.03:533][531]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.21-13.45.03:533][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-13.45.03:533][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-13.45.03:533][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-13.45.03:534][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.21-13.45.03:534][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.21-13.45.03:536][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.21-13.45.03:536][531]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.21-13.45.03:536][531]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2026.04.21-13.45.03:536][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.21-13.45.03:536][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.21-13.45.03:538][531]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.21-13.45.03:540][531]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.21-14.45.03
+[2026.04.21-13.45.03:540][531]LogWorld: Bringing up level for play took: 0.001219
+[2026.04.21-13.45.03:542][531]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.04.21-13.45.03:546][531]PIE: Server logged in
+[2026.04.21-13.45.03:547][531]PIE: Play in editor total start time 0.082 seconds.
+[2026.04.21-13.45.04:862][657]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Added
+[2026.04.21-13.45.05:619][737]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-13.45.05:620][737]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.21-13.45.05:620][737]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.21-13.45.06:726][852]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ButtonNames' of length 1 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.06:726][852]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.06:726][852]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ButtonNames' of length 1 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.06:726][852]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.08:061][993]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-13.45.09:000][ 92]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Unpaused
+[2026.04.21-13.45.09:000][ 92]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.21-13.45.09:000][ 92]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.21-13.45.10:328][232]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Added
+[2026.04.21-13.45.10:691][270]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Added
+[2026.04.21-13.45.11:430][349]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-13.45.11:430][349]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.21-13.45.11:430][349]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.21-13.45.13:284][555]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Removed
+[2026.04.21-13.45.13:284][555]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ButtonNames' of length 2 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.13:284][555]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.15:325][783]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Removed
+[2026.04.21-13.45.15:325][783]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ButtonNames' of length 1 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.15:325][783]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.15:325][783]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ButtonNames' of length 1 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.15:325][783]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.16:044][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Item Removed
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonNames' of length 0 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ButtonNames' of length 0 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ButtonNames' of length 0 in '/Game/GEP/BPC_Inventory.BPC_Inventory_C'!
+[2026.04.21-13.45.16:044][863]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_InventoryUIHookUp
+[2026.04.21-13.45.17:062][976]LogBlueprintUserMessages: [GameManager_C_UAID_50814029CD8D70BD02_1149769791] Paused
+[2026.04.21-13.45.18:267][111]Cmd: quit
+[2026.04.21-13.45.18:268][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-13.45.18:268][111]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.21-13.45.18:305][111]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-13.45.18:305][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-13.45.18:306][111]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.21-13.45.18:308][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-13.45.18:310][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-13.45.18:344][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-13.45.18:344][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.21-13.45.18:344][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.04.21-13.45.18:347][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.04.21-13.45.18:350][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-13.45.18:352][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.21-13.45.18:415][112]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.04.21-13.45.25:870][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-13.45.25:918][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BPC_Inventory] ([2] browsable assets)...
+[2026.04.21-13.45.25:918][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BPC_Inventory]
+[2026.04.21-13.45.25:918][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BPC_Inventory" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset" SILENT=true
+[2026.04.21-13.45.25:921][949]LogSavePackage: Moving output files for package: /Game/GEP/BPC_Inventory
+[2026.04.21-13.45.25:923][949]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BPC_Inventory8159E15E4DBAE828E165AF88E94F05ED.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BPC_Inventory.uasset'
+[2026.04.21-13.45.25:930][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.556 ms (total: 539.804 ms)
+[2026.04.21-13.45.25:984][949]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-13.45.25:984][949]LogContentValidation: Enabled validators:
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-13.45.25:984][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-13.45.25:984][949]AssetCheck: /Game/GEP/BPC_Inventory Validating asset
+[2026.04.21-13.45.26:999][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.21-13.45.56:326][512]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.21-13.45.57:952][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.21-13.45.59:564][653]LogSlate: Window 'Save Content' being destroyed
+[2026.04.21-13.45.59:590][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-13.45.59:619][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GEP/BP_GameManager] ([2] browsable assets)...
+[2026.04.21-13.45.59:619][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/BP_GameManager]
+[2026.04.21-13.45.59:619][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/BP_GameManager" FILE="D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset" SILENT=true
+[2026.04.21-13.45.59:633][653]LogSavePackage: Moving output files for package: /Game/GEP/BP_GameManager
+[2026.04.21-13.45.59:633][653]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/BP_GameManagerA4DFC84B4A4CA9A8B2A46D9802210F30.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/GEP/BP_GameManager.uasset'
+[2026.04.21-13.45.59:641][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.546 ms (total: 591.350 ms)
+[2026.04.21-13.45.59:686][653]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-13.45.59:686][653]LogContentValidation: Enabled validators:
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-13.45.59:686][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-13.45.59:686][653]AssetCheck: /Game/GEP/BP_GameManager Validating asset

@@ -2762,3 +2762,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.22-11.31.46:525][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2026.04.22-11.33.43:406][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/BPC_Inventory.BPC_Inventory
 [2026.04.22-11.33.43:406][151]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.22-11.37.32:895][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3149.072510
+[2026.04.22-11.37.33:895][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.37.33:895][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3149.739014, Update Interval: 337.153229
+[2026.04.22-11.43.59:318][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3535.483643
+[2026.04.22-11.44.00:318][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.44.00:318][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3536.150391, Update Interval: 304.004639
+[2026.04.22-11.46.41:207][564]LogDerivedDataCache: C:/Users/d2-robb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.22-11.49.41:707][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3877.870361
+[2026.04.22-11.49.42:707][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.49.42:707][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3878.537354, Update Interval: 333.236481
+[2026.04.22-11.56.10:102][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4266.259766
+[2026.04.22-11.56.11:103][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.56.11:103][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4266.926270, Update Interval: 344.865875
+[2026.04.22-12.01.05:258][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.22-12.01.08:750][261]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-12.01.08:761][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-12.01.08:811][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.22-12.01.08:825][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.22-12.01.08:840][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.22-12.01.08:845][261]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UH/0B2WJN9EY6XE3I0SZ14U15
+[2026.04.22-12.01.08:845][261]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/0B2WJN9EY6XE3I0SZ14U1567B61FB244ADE87E701E5F8062570BA3.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UH/0B2WJN9EY6XE3I0SZ14U15.uasset'
+[2026.04.22-12.01.08:847][261]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3W/WGKVSTQ9YQUNFFIAQ5N7UI
+[2026.04.22-12.01.08:847][261]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/WGKVSTQ9YQUNFFIAQ5N7UI6880B5E24520BF619B6582B008EB7379.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3W/WGKVSTQ9YQUNFFIAQ5N7UI.uasset'
+[2026.04.22-12.01.08:849][261]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7G/TXL7NHI6DGTIHMAT6Q3MZ3
+[2026.04.22-12.01.08:849][261]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Saved/TXL7NHI6DGTIHMAT6Q3MZ3CF2E568D4AB70138C0A479985711420C.tmp' to 'D:/gep-25-26-unreal-template-Daniel2-Robb/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7G/TXL7NHI6DGTIHMAT6Q3MZ3.uasset'
+[2026.04.22-12.01.08:859][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.631 ms (total: 1.29 sec)
+[2026.04.22-12.01.08:896][261]LogContentValidation: Display: Starting to validate 3 assets
+[2026.04.22-12.01.08:896][261]LogContentValidation: Enabled validators:
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-12.01.08:896][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-12.01.08:896][261]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2026.04.22-12.01.08:911][261]LogAutomationController: Ignoring very large delta of 3.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
